@@ -11,9 +11,10 @@ import iseeqq.tool.ImgUtil;
 /**
  * 图片识别处理类
  * 
- * @author Administrator
- * 
- *         参考 http://blog.csdn.net/shengfn/article/details/53582694
+ * @author 戴永杰
+ * 参考 http://blog.csdn.net/shengfn/article/details/53582694
+ * @date 2017年11月14日 下午5:36:35 
+ * @version V1.0   
  *
  */
 public class ImgAnalyze {

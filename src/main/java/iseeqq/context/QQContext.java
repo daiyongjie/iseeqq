@@ -21,6 +21,16 @@ import iseeqq.tool.QQ;
 import iseeqq.tool.ScreenShot;
 import iseeqq.tool.Source;
 
+
+/**
+ * 
+ * 
+ * @author 戴永杰
+ *
+ * @date 2017年11月14日 下午5:36:03 
+ * @version V1.0   
+ *
+ */
 public class QQContext {
 
 	private Robot robot;

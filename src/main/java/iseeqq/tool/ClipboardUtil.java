@@ -13,6 +13,16 @@ import java.io.Reader;
 
 import iseeqq.model.QQMsg;
 
+
+/***
+ * 
+ * 
+ * @author 戴永杰
+ *
+ * @date 2017年11月14日 下午5:37:17 
+ * @version V1.0   
+ *
+ */
 public class ClipboardUtil {
 
 	public static void clear() {

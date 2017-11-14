@@ -1,5 +1,15 @@
 package iseeqq.model;
 
+
+/**
+ * 
+ * 
+ * @author 戴永杰
+ *
+ * @date 2017年11月14日 下午5:36:53 
+ * @version V1.0   
+ *
+ */
 public class CutPoint {
 	
 	public int x1;

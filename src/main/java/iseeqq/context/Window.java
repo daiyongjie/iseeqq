@@ -23,6 +23,16 @@ import com.sun.jna.platform.win32.WinDef.RECT;
 import iseeqq.model.ImgCut;
 import iseeqq.tool.ScreenShot;
 
+
+/**
+ * 
+ * 
+ * @author 戴永杰
+ *
+ * @date 2017年11月14日 下午5:36:08 
+ * @version V1.0   
+ *
+ */
 public class Window {
 
 	public ImageIcon getRunProIcon(String proName) throws IOException {

@@ -10,7 +10,10 @@ import java.util.Arrays;
 /**
  * 均值哈希实现图像指纹比较
  * 
- * @author guyadong
+ * @author 戴永杰
+ *
+ * @date 2017年11月14日 下午5:36:21 
+ * @version V1.0   
  *
  */
 public final class FingerPrint {

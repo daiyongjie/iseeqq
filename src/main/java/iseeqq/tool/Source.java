@@ -6,6 +6,16 @@ import java.io.IOException;
 
 import javax.imageio.ImageIO;
 
+
+/**
+ * 
+ * 
+ * @author 戴永杰
+ *
+ * @date 2017年11月14日 下午5:37:41 
+ * @version V1.0   
+ *
+ */
 public class Source {
 
 	// 口令红包

@@ -4,6 +4,16 @@ import java.awt.image.BufferedImage;
 
 import iseeqq.model.QQMsg;
 
+
+/**
+ * 
+ * 
+ * @author 戴永杰
+ *
+ * @date 2017年11月14日 下午5:37:32 
+ * @version V1.0   
+ *
+ */
 public class QQ {
 
 	/**

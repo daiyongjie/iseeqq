@@ -2,6 +2,16 @@ package iseeqq.model;
 
 import java.awt.image.BufferedImage;
 
+
+/**
+ * 
+ * 
+ * @author 戴永杰
+ *
+ * @date 2017年11月14日 下午5:36:58 
+ * @version V1.0   
+ *
+ */
 public class ImgCut {
 
 	private BufferedImage img;

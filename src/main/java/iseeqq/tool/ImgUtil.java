@@ -24,6 +24,15 @@ import iseeqq.context.Window;
 import iseeqq.img.ImgAnalyze;
 import iseeqq.model.ImgCut;
 
+/**
+ * 
+ * 
+ * @author 戴永杰
+ *
+ * @date 2017年11月14日 下午5:37:27 
+ * @version V1.0   
+ *
+ */
 public class ImgUtil {
 
 	/**

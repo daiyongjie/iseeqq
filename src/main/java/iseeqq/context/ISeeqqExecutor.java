@@ -55,7 +55,12 @@ public abstract class ISeeqqExecutor implements QQListener {
 		qqContext.writeQQMsg(new QQMsg().append(msg));
 	}
 	
-	
+	@Override
+	public void onRedEnvelope(String window, QQMsg context) {
+		// TODO Auto-generated method stub
+		
+	}
+
 	public boolean writeQQMsg(String name,QQMsg msg){
 		
 		if(qqContext.getQqStatus()==1){

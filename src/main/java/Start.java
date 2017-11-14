@@ -31,8 +31,9 @@ public class Start {
 				for (String string : context.getMessageStr()) {
 					System.out.println("\t"+string);
 				}
+				
+				QQMsg msg= new QQMsg();
 				if("流浪儿".equals(name)){
-					QQMsg msg= new QQMsg();
 					msg.append("笨笨的机器人，自动回复:");
 					for (Object string : context.getMessage()) {
 						if(string.toString().contains("IMG")){
@@ -41,14 +42,8 @@ public class Start {
 							msg.append(file).append("ok");
 						}
 					}
-					
 					writeQQMsg(msg);
 				}
-			}
-
-			@Override
-			public void onRedEnvelope(String window, QQMsg context) {
-				System.out.println("收到红包了");
 			}
 		};
 		
